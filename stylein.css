@@ -1,0 +1,51 @@
+*{
+
+    box-sizing: border-box;
+}
+
+
+
+body{
+
+    background-color: rgb(202, 201, 201);
+  
+}
+
+.first{
+
+    background-color: rgb(240, 238, 238);
+    margin: 0px 100px 10px 800px;
+    border: 10px 10px 10px 10px 10px;
+    height: auto;
+    width: 200px;
+
+
+}
+
+.second{
+    background-color: rgb(241, 236, 236);
+    margin: 0px 200px 10px 800px;
+    border: 10px 10px 10px 10px 10px;
+    height: auto;
+    width: 200px;
+}
+.three{
+
+    background-color: rgb(241, 236, 236);
+    margin: 0px 200px 10px 800px;
+    border: 10px 10px 10px 10px 10px;
+    height: auto;
+    width: 200px;
+}
+
+
+button{
+
+    background-color: lightblue;
+    height: 100px;
+    width: 180px;
+    margin: 10px 100px 10px 10px;
+    padding: 30px;
+    border: 30px solid white;
+
+}
